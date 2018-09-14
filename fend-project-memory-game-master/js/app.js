@@ -35,6 +35,7 @@ function newGame(){
             deck.appendChild(item);
         });
         cards[i].classList.remove("show", "open", "match", "disabled");
+        openCards = [];
     }
     // moves back to 0
     moves = 0;

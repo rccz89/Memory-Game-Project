@@ -6,10 +6,10 @@ This is the second project of the intermediate JavaScript section for Udacity's 
 
 ## How the Game Works
 
--The game board consists of sixteen "cards" arranged in a grid. 
--The deck is made up of eight different pairs of cards, each with different symbols on one side.
--The cards are arranged randomly on the grid with the symbol face down. 
--The gameplay rules are very simple: flip over two hidden cards at a time to locate the ones that match!
+- The game board consists of sixteen "cards" arranged in a grid. 
+- The deck is made up of eight different pairs of cards, each with different symbols on one side.
+- The cards are arranged randomly on the grid with the symbol face down. 
+- The gameplay rules are very simple: flip over two hidden cards at a time to locate the ones that match!
 
 ## Screenshoots
 
@@ -21,3 +21,8 @@ This is the second project of the intermediate JavaScript section for Udacity's 
 ![screen shot 2018-09-14 at 4 00 00 pm](https://user-images.githubusercontent.com/28276138/45572486-614dc980-b837-11e8-9859-f45cb3e8ce52.png)
 
 
+## Required
+
+- Fontawesome 
+- animate.css
+- ES6
